@@ -56,4 +56,4 @@ O objetivo foi utilizar o NotebookLM para estudar Inteligência Artificial Gener
 
 ## 👨‍💻 Autor
 
-Renato Moraes
+Renato Morais
